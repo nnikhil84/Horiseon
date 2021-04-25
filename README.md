@@ -9,7 +9,7 @@
 * Separated the classes and elements in style.css and placed in orderly alphabetical manner
 
 ## Screen shot of the website
-[The whole webpage screenshot](/Horiseon/assets/images/Horiseon Webpage.png)
+https://github.com/nnikhil84/Horiseon/blob/main/assets/images/Horiseon%20Webpage.png
 
 ##References
 * https://en.wikipedia.org/wiki/Agile_software_development
