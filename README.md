@@ -7,3 +7,11 @@
 * Comments added to index.html
 * Comments added to style.css
 * Separated the classes and elements in style.css and placed in orderly alphabetical manner
+
+## Screen shot of the website
+[The whole webpage screenshot](/Horiseon/assets/images/Horiseon Webpage.png)
+
+##References
+* https://en.wikipedia.org/wiki/Agile_software_development
+* https://www.w3schools.com/html/html5_semantic_elements.asp
+* https://www.w3schools.com/tags/att_img_alt.asp
