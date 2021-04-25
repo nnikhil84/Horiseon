@@ -6,4 +6,4 @@
 * Alt text added to the images
 * Comments added to index.html
 * Comments added to style.css
-* Separated the classes and elements in style.css and placed in orderly manner
+* Separated the classes and elements in style.css and placed in orderly alphabetical manner
